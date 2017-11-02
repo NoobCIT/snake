@@ -1,0 +1,45 @@
+.grid {
+  width: 680px;
+  height: 680px;
+}
+
+ul {
+  width: 680px;
+  height: 17px;
+  margin: 0;
+  padding: 0;
+
+}
+
+.square {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border-color: #F06F21;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.snake-head img {
+  width: 15px;
+  height: 15px;
+}
+
+.snake-body {
+  background-color: #92F846;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  border-style: solid;
+  border-color: #668cff;
+  border-width: 3px;
+  background-color: #ccd8ff;
+  font-weight: bold;
+
+
+
+
+}
